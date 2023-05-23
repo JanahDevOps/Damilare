@@ -1,7 +1,7 @@
 # Damilare
 <<<<<<< HEAD
 What's up dou. CyberOracle here!
-
+What's up dou. CyberOracle here! Are you enjoying git?
 
 =======
 Java Project for gaming AI
