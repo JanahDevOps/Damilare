@@ -1,6 +1,4 @@
 # Damilare
-Java Project for gaming AI
-Several Developers working this Project
+What's up dou. CyberOracle here!
 
 
-<html> read new</html>
